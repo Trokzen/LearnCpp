@@ -4,10 +4,10 @@ int main()
 {
 	int x = 5, y = 5;
 	std::cout << x << " " << y << std::endl;
-	std::cout << ++x << " " << --y << std::endl; // âåğñèÿ ïğåôèêñ
+	std::cout << ++x << " " << --y << std::endl; // Ã¢Ã¥Ã°Ã±Ã¨Ã¿ Ã¯Ã°Ã¥Ã´Ã¨ÃªÃ±
 	std::cout << x << " " << y << std::endl;
-	std::cout << x++ << " " << y-- << std::endl; // âåğñèÿ ïîñòôèêñ
+	std::cout << x++ << " " << y-- << std::endl; // Ã¢Ã¥Ã°Ã±Ã¨Ã¿ Ã¯Ã®Ã±Ã²Ã´Ã¨ÃªÃ±
 	std::cout << x << " " << y << std::endl;
 
-	return 0;
+	return 0; 
 }
