@@ -8,6 +8,6 @@ int main()
 	std::cout << x << " " << y << std::endl;
 	std::cout << x++ << " " << y-- << std::endl;
 	std::cout << x << " " << y << std::endl;  
-	z = 25;//bug fixed
+	z = 25;//bug fixed new
 	return 0; 
 }
